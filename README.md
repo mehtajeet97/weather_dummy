@@ -14,7 +14,7 @@ We're going to learn to build a web app that displays the current weather, using
 
 With the power of Open Weather API, we can check the weather by location.
 
-By the end of this tutorial, you will have learned to utilize the following:
+We will learn to utilize the following:
 
 <ul>
   <li>Fetching asynchronous data with API secrets/keys.</li>
