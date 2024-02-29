@@ -2,9 +2,9 @@
 
 ## View the Weather With HTML, CSS, & JavaScript
 
-Prerequisites: HTML/CSS, JavaScript
-Versions: HTML5, CSS3, ES6+ (JavaScript)
-Execution Time: 30 minutes
+Prerequisites: HTML/CSS, Vanilla JavaScript<br>
+Versions: HTML5, CSS3, ES6+ (JavaScript)<br>
+Execution Time: 30 minutes<br>
 
 ## Introduction
 
