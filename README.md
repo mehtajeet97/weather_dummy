@@ -16,6 +16,8 @@ With the power of Open Weather API, we can check the weather by location.
 
 By the end of this tutorial, you will have learned to utilize the following:
 
-Fetching asynchronous data with API secrets/keys.
-Organizing content with a CSS layout model.
-Changing what's on the rendered page.
+<ul>
+  <li>Fetching asynchronous data with API secrets/keys.</li>
+  <li>Organizing content with a CSS layout model.</li>
+  <li>Changing what's on the rendered page.</li>
+</ul>
