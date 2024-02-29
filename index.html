@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Stylesheet reference, only style.css since it is in the same folder-->
   <link href="styles.css" rel="stylesheet" />
   <title>Weather App</title>
 </head>
 <body>
     <main>
+      <!-- ID weather-wrapper used for styling-->
       <section id="weather-wrapper">
         <h1>Weather App</h1>
         <div id="weather-search">
+         <!-- ID search and weather-data used for javascript-->        
          <input id="search" type="text" placeholder="Search by city" />
           <input id="submit" type="submit" onclick="fetchWeather()" value="Search" />
         </div>
